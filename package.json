@@ -1,0 +1,14 @@
+{
+  "name": "@redphx/better-xcloud-samsung-tv",
+  "appName": "Better xCloud",
+  "version": "0.0.1",
+  "description": "Test",
+  "packageType": "mods",
+  "websiteURL": "https://xbox.com/play",
+  "main": "dist/better-xcloud.user.js",
+  "author": "redphx",
+  "repository": {
+    "url": "https://github.com/redphx/better-xcloud-samsung-tv"
+  },
+  "license": "MIT"
+}
